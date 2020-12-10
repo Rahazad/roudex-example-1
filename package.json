@@ -1,0 +1,30 @@
+{
+	"name": "roudex-example",
+	"homepage": ".",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"dependencies": {
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1",
+		"react-scripts": "^4.0.1",
+		"@rahazad/roudex": "0.1.5"
+	},
+	"devDependencies": {
+		"@babel/plugin-syntax-object-rest-spread": "^7.8.3"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": [
+		">0.2%",
+		"not dead",
+		"not ie <= 11",
+		"not op_mini all"
+	]
+}

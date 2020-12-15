@@ -1428,18 +1428,18 @@
   resolved "https://registry.yarnpkg.com/@rahazad/deep-equal/-/deep-equal-0.0.0.tgz#7fdaed9cffff9440294347cc53512ed048d9018f"
   integrity sha512-drAbPBUk1mkotDIxCMJtCFr4qaLVH4n5afgUVYq5yv3rYMxByavq2vecEL6GgDTsoGPoZ8uAmJMBORqKAtH4+Q==
 
-"@rahazad/payload-reducer@0.0.0":
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/@rahazad/payload-reducer/-/payload-reducer-0.0.0.tgz#b0a7b11287cd65411f362cc41dc5ca0a089d20cc"
-  integrity sha512-crU3RNoQX+EBnVJ8ODsRzPaHFPT28q6K+Rk28QCfTgDGCHFZxqlGkfrqAaoLAL55mtn5mBOH9CMHaYV7tIQK4Q==
+"@rahazad/graph-reducer@0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@rahazad/graph-reducer/-/graph-reducer-0.1.1.tgz#e8d835829b21dfb62b279f5a938cc9d615703092"
+  integrity sha512-/uA6GyBUxU/Z2a2f+Ae+hGgawGKkBuavblnkMRbXw+3B/yMNqGMtInUHYUBXdQfb36NglCgZ7sGHB5nOUpC50Q==
 
-"@rahazad/roudex@0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@rahazad/roudex/-/roudex-0.1.5.tgz#ea26e20d08e91bf4de27ef2425651bc616cf364f"
-  integrity sha512-Lk1xgFtqLHCdsT6tKoApxQm2dhHm21b55mjH77nGWTiuO6ATnHiec/5PrJmDRxDPV/EjER58euvAqGQzdYAigQ==
+"@rahazad/roudex@0.1.8":
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/@rahazad/roudex/-/roudex-0.1.8.tgz#bcd4beb2a0149937bbbf5bc6aa9e01b33e21f933"
+  integrity sha512-0o4khjubtfxZuxgfejMOChyf+MfGwDyTAdxCshzHzm9cQW1Z4PBW087g2MBdrlgPLZugzp3jN+gRTxd0U6LybA==
   dependencies:
     "@rahazad/deep-equal" "0.0.0"
-    "@rahazad/payload-reducer" "0.0.0"
+    "@rahazad/graph-reducer" "0.1.1"
 
 "@rollup/plugin-node-resolve@^7.1.1":
   version "7.1.3"

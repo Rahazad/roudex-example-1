@@ -13,7 +13,7 @@
 		"react": "^17.0.1",
 		"react-dom": "^17.0.1",
 		"react-scripts": "^4.0.1",
-		"@rahazad/roudex": "0.1.5"
+		"@rahazad/roudex": "0.1.8"
 	},
 	"devDependencies": {
 		"@babel/plugin-syntax-object-rest-spread": "^7.8.3"
